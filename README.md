@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @echen770
-- 👀 I’m interested in Django
-- 🌱 I’m currently learning Django
+- 👀 I’m interested in Dynamics 365
+- 🌱 I’m currently learning PowerApps
 - 📫 How to reach me echen770@gmail.com
 
 <!---
